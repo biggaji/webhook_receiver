@@ -1,0 +1,17 @@
+{
+  "name": "webhook_receiver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/biggaji/webhook_receiver.git",
+  "author": "biggaji <herityjohnny14@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
